@@ -1,0 +1,1 @@
+// iniciar as variaveis
